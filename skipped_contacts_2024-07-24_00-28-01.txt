@@ -1,0 +1,3 @@
+Skipped phone numbers: 1
+Abd-elrahman mo -> +20112449285
+Percentage skipped phone numbers: 25.00%
